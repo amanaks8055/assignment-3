@@ -1,0 +1,31 @@
+form{
+    text-transform: capitalize;
+    color: #e0ef05;
+    padding: 12px;
+    background-color: #ef4305;
+   
+    background-image: url(https://images.unsplash.com/photo-1531297484001-80022131f5a1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8dGVjaHxlbnwwfHwwfHw%3D&w=1000&q=80);
+background-repeat: one-repeat;
+background-size: cover;}
+label{
+    text-transform: capitalize;
+    color:rgb(135, 254, 12);
+}
+
+button{
+    padding: 6px;
+    width:50%;
+    background-color: brown;
+    border-bottom-left-radius:10px;
+}
+    
+
+input[type=text]{
+    padding:3px 5px;
+    border-radius: 8px;
+}
+input[type=number]{
+    padding:3px 5px;
+    border-radius: 8px;
+}
+
